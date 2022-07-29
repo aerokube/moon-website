@@ -1,6 +1,6 @@
 const defaultParams = {
   blockName: "pricing-range",
-  sessions: [10, 20, 50, 100, 500, 1000, "∞"],
+  sessions: [10, 20, 50, 100, 500, 1000, "More"],
   defaultSession: 50,
   defaultMonth: "6",
   months: [
@@ -72,7 +72,7 @@ class Range {
   }
 
   setValue() {
-    if (this.session === "∞") {
+    if (this.session === "More") {
       this.toggleContactUs();
       this.priceInput.value = "infinity";
 
