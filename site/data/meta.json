@@ -113,6 +113,11 @@
   ],
   "articles": [
     {
+      "title": "Selenium: Securing Your Moon Cluster in Kubernetes and Openshift",
+      "description": "This article describes how to enabled security features in Moon.",
+      "url": "https://blog.aerokube.com/selenium-securing-your-moon-cluster-in-kubernetes-and-openshift-92bde882a240"
+    },      
+    {
       "title": "Selenium: Moon Environment Provisioning",
       "description": "This article gives more light about new Moon context feature.",
       "url": "https://blog.aerokube.com/selenium-moon-environment-provisioning-72402242c917"
