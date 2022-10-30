@@ -11,8 +11,8 @@
       "icon": "browsers"
     },
     {
-      "title": "Playwright supported",
-      "description": "Run your Playwright tests \nin parallel",
+      "title": "\"Swiss Army Knife\"",
+      "description": "Run Selenium, Playwright and \nCypress tests in one cluster",
       "icon": "openshift"
     },
     {
@@ -116,17 +116,17 @@
       "title": "Selenium: Securing Your Moon Cluster in Kubernetes and Openshift",
       "description": "This article describes how to enabled security features in Moon.",
       "url": "https://blog.aerokube.com/selenium-securing-your-moon-cluster-in-kubernetes-and-openshift-92bde882a240"
-    },      
+    },
     {
       "title": "Selenium: Moon Environment Provisioning",
       "description": "This article gives more light about new Moon context feature.",
       "url": "https://blog.aerokube.com/selenium-moon-environment-provisioning-72402242c917"
-    },      
+    },
     {
       "title": "Moon 2: The Next Generation Browser Infrastructure Solution",
       "description": "This article describes difference between Moon 1 and Moon 2.",
       "url": "https://blog.aerokube.com/moon-2-the-next-generation-browser-infrastructure-solution-11b60d3d41ba"
-    },      
+    },
     {
       "title": "Cypress: Remote Tests Execution Made Simple",
       "description": "This article describes how to run your Cypress tests in parallel with Moon.",
